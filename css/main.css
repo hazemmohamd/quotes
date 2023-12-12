@@ -71,7 +71,7 @@ h1{
     margin-bottom: 1rem;
   }
 
-  @media (max-width: 575.98px) {
+  @media (max-width: 730.98px) {
     #main .container-fluid{
       min-height: 450px;
       padding-block: 4rem;
